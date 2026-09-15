@@ -1,0 +1,22 @@
+[
+  {
+    "question": "Bir öğrenci en fazla kaç laboratuvar oturumunu kaçırabilir?",
+    "expected_source": "attendance_policy.md"
+  },
+  {
+    "question": "İlk laboratuvar oturumuna neler getirmeliyim?",
+    "expected_source": "lab_rules.md"
+  },
+  {
+    "question": "Final uygulamasının not ağırlığı nedir?",
+    "expected_source": "assessment.md"
+  },
+  {
+    "question": "Teknik yardım almak için nereye başvurabilirim?",
+    "expected_source": "student_support.md"
+  },
+  {
+    "question": "Ders kayıtları ne zaman kapanıyor?",
+    "expected_source": "registration.md"
+  }
+]
